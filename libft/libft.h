@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dkondysi <dkondysi@student.42prague.com    +#+  +:+       +#+        */
+/*   By: danylokondysiuk <danylokondysiuk@studen    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/13 19:54:35 by dkondysi          #+#    #+#             */
-/*   Updated: 2025/11/15 19:28:49 by dkondysi         ###   ########.fr       */
+/*   Updated: 2025/11/17 19:35:08 by danylokondy      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,5 +24,6 @@ int ft_isprint(int dan);
 int	ft_toupper(int dan);
 int	ft_tolower(int dan);
 size_t	ft_strlen(const char *dan);
+void	*ft_memset(void *dany, int dan, size_t len);
 
 #endif
