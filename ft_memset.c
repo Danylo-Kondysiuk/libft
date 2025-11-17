@@ -3,10 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memset.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dkondysi <dkondysi@student.42prague.com    +#+  +:+       +#+        */
+/*   By: danylokondysiuk <danylokondysiuk@studen    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/13 20:05:57 by dkondysi          #+#    #+#             */
-/*   Updated: 2025/11/13 20:05:58 by dkondysi         ###   ########.fr       */
+/*   Updated: 2025/11/17 19:15:52 by danylokondy      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+void	*ft_memset(void *dany, int dan, size_t len)
+{
+    
+}

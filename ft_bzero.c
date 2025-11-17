@@ -3,10 +3,11 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dkondysi <dkondysi@student.42prague.com    +#+  +:+       +#+        */
+/*   By: danylokondysiuk <danylokondysiuk@studen    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/13 20:06:12 by dkondysi          #+#    #+#             */
-/*   Updated: 2025/11/13 20:06:13 by dkondysi         ###   ########.fr       */
+/*   Updated: 2025/11/17 19:14:16 by danylokondy      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+void	*ft_memset(void *b, int c, size_t len);
